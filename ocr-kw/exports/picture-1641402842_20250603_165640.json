@@ -1,0 +1,309 @@
+{
+  "success": true,
+  "processing_info": {
+    "filename": "picture-1641402842.jpg",
+    "total_items": 11,
+    "raw_lines_detected": 62,
+    "processing_time": null,
+    "timestamp": "2025-06-03T16:56:40.073646"
+  },
+  "line_items": [
+    {
+      "description": "Wings",
+      "amount": 99.0,
+      "confidence": 0.5659,
+      "raw_text": "99.000",
+      "position": {
+        "y": 187,
+        "bbox": [
+          [
+            355,
+            187
+          ],
+          [
+            397,
+            187
+          ],
+          [
+            397,
+            203
+          ],
+          [
+            355,
+            203
+          ]
+        ]
+      }
+    },
+    {
+      "description": "PU Tao CHEE Chiew",
+      "amount": 42.0,
+      "confidence": 0.7217,
+      "raw_text": "42.000",
+      "position": {
+        "y": 203,
+        "bbox": [
+          [
+            355,
+            203
+          ],
+          [
+            399,
+            203
+          ],
+          [
+            399,
+            219
+          ],
+          [
+            355,
+            219
+          ]
+        ]
+      }
+    },
+    {
+      "description": "40 C00",
+      "amount": 100.0,
+      "confidence": 0.7553,
+      "raw_text": "100.000",
+      "position": {
+        "y": 235,
+        "bbox": [
+          [
+            351,
+            235
+          ],
+          [
+            399,
+            235
+          ],
+          [
+            399,
+            251
+          ],
+          [
+            351,
+            251
+          ]
+        ]
+      }
+    },
+    {
+      "description": "Karpung Fried Rice",
+      "amount": 49.0,
+      "confidence": 0.9081,
+      "raw_text": "49.000",
+      "position": {
+        "y": 249,
+        "bbox": [
+          [
+            357,
+            249
+          ],
+          [
+            399,
+            249
+          ],
+          [
+            399,
+            267
+          ],
+          [
+            357,
+            267
+          ]
+        ]
+      }
+    },
+    {
+      "description": "Nachos Cheese",
+      "amount": 54.0,
+      "confidence": 0.8536,
+      "raw_text": "54.000",
+      "position": {
+        "y": 265,
+        "bbox": [
+          [
+            355,
+            265
+          ],
+          [
+            401,
+            265
+          ],
+          [
+            401,
+            283
+          ],
+          [
+            355,
+            283
+          ]
+        ]
+      }
+    },
+    {
+      "description": "40 0C0",
+      "amount": 45.0,
+      "confidence": 0.9065,
+      "raw_text": "45.000",
+      "position": {
+        "y": 317,
+        "bbox": [
+          [
+            359,
+            317
+          ],
+          [
+            401,
+            317
+          ],
+          [
+            401,
+            333
+          ],
+          [
+            359,
+            333
+          ]
+        ]
+      }
+    },
+    {
+      "description": "CHICKEN NANBAN",
+      "amount": 900.0,
+      "confidence": 0.571,
+      "raw_text": "900.000",
+      "position": {
+        "y": 331,
+        "bbox": [
+          [
+            349,
+            331
+          ],
+          [
+            401,
+            331
+          ],
+          [
+            401,
+            349
+          ],
+          [
+            349,
+            349
+          ]
+        ]
+      }
+    },
+    {
+      "description": "PROHO THE MEDDING ORGANIZER",
+      "amount": 100.0,
+      "confidence": 0.8715,
+      "raw_text": "100.000)",
+      "position": {
+        "y": 355,
+        "bbox": [
+          [
+            137,
+            355
+          ],
+          [
+            197,
+            355
+          ],
+          [
+            197,
+            371
+          ],
+          [
+            137,
+            371
+          ]
+        ]
+      }
+    },
+    {
+      "description": "(DISC",
+      "amount": 408.0,
+      "confidence": 0.8525,
+      "raw_text": "408.000",
+      "position": {
+        "y": 377,
+        "bbox": [
+          [
+            351,
+            377
+          ],
+          [
+            399,
+            377
+          ],
+          [
+            399,
+            395
+          ],
+          [
+            351,
+            395
+          ]
+        ]
+      }
+    },
+    {
+      "description": "100 C00",
+      "amount": 130.8,
+      "confidence": 0.9243,
+      "raw_text": "130.800",
+      "position": {
+        "y": 439,
+        "bbox": [
+          [
+            349,
+            439
+          ],
+          [
+            397,
+            439
+          ],
+          [
+            397,
+            455
+          ],
+          [
+            349,
+            455
+          ]
+        ]
+      }
+    },
+    {
+      "description": "SVC",
+      "amount": 143.88,
+      "confidence": 0.5921,
+      "raw_text": "143.880",
+      "position": {
+        "y": 453,
+        "bbox": [
+          [
+            349,
+            453
+          ],
+          [
+            395,
+            453
+          ],
+          [
+            395,
+            469
+          ],
+          [
+            349,
+            469
+          ]
+        ]
+      }
+    }
+  ]
+}
