@@ -1,6 +1,6 @@
 # OurBill
 
-**OurBill** adalah proyek yang menggabungkan frontend berbasis Laravel dan backend berbasis Python untuk membuat aplikasi yang fungsional. Aplikasi ini dirancang untuk membantu mengelola tagihan dan melakukan tugas OCR (Optical Character Recognition).
+**OurBill**  adalah aplikasi yang dirancang untuk memudahkan proses pembagian tagihan di antara beberapa orang. Berfungsi seperti aplikasi pembagian tagihan lainnya, tetapi dengan keunggulan tambahan yang memungkinkan pengguna untuk mentraktir orang lain, tergantung pada persentase kontribusi yang ditentukan.
 
 ### Struktur Proyek:
 Repository ini berisi dua bagian utama:
@@ -54,5 +54,4 @@ Untuk menjalankan proyek ini secara lokal, Anda perlu mengikuti langkah-langkah 
 - **Frontend**: Laravel (PHP)
 - **Backend**: Python, Uvicorn, OCR
 
-### Lisensi:
-Proyek ini dilisensikan di bawah MIT License - lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
+
